@@ -9,10 +9,30 @@ fazer alguns filtros para buscar um produto específico.
 
 - [React](https://pt-br.reactjs.org/)
 
-## 🚀 Começando
 
-Faça o clone para obter uma cópia do projeto em operação na sua máquina local para fins de testes.
+## 🔧 Instalação
 
----
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-⌨️ com ❤️ por [Lucas Vale](https://github.com/lucasvale95) 😊
+Para começar, clone o repositório em sua máquina:
+
+```
+git@github.com:lucasvale95/kenzie_burguer.git
+
+```
+
+E na pasta clonada:
+
+```
+yarn start
+
+```
+
+Open http://localhost:3000 to view it in the browser.
+
+
+## ⚡ Deploy
+
+Para acesso e testes em produção:
+
+* [Projeto em produção](https://kenzie-burguer-neon.vercel.app/) - Deploy realizado no vercel
