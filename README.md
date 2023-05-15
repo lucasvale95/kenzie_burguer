@@ -8,11 +8,11 @@ fazer alguns filtros para buscar um produto específico.
 ## 🛠️ Construído com
 
 - [React](https://pt-br.reactjs.org/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
 ## 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
 Para começar, clone o repositório em sua máquina:
 
@@ -35,4 +35,4 @@ Open http://localhost:3000 to view it in the browser.
 
 Para acesso e testes em produção:
 
-* [Projeto em produção](https://kenzie-burguer-neon.vercel.app/) - Deploy realizado no vercel
+* [Projeto em produção](https://kenzie-burguer-kwrs2hn72-lucasvale95.vercel.app/) - Deploy realizado no vercel
